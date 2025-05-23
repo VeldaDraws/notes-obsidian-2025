@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c67242c85cac71a",
+        "id": "e75ec29bf2363860",
         "type": "tabs",
         "children": [
           {
-            "id": "a197a2be2280b108",
+            "id": "bff63559eb75dc42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D321-AWS-Developer/00_Preface - DVA-C02.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00_Preface - DVA-C02"
+              "title": "New tab"
             }
           }
         ]
@@ -169,9 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a197a2be2280b108",
+  "active": "bff63559eb75dc42",
   "lastOpenFiles": [
     "README.md",
+    "D321-AWS-Developer/00_Preface - DVA-C02.md",
     "D321-AWS-Developer/00_Table-Of-Contents.md",
     "Index.md",
     "D319-AWS-Solutions-Arc/0_Table-Contents_D319.md",
@@ -208,7 +205,6 @@
     "Pasted image 20250505051749.png",
     "Summaries",
     "D319-AWS-Solutions-Arc/Summaries",
-    "D319-AWS-Solutions-Arc/5_Database-Notes/05_02-Database Layer - Overview.md",
     "D319-AWS-Solutions-Arc/2_Images/DB-Layer-Diagrams/onp-vs-ec2-vs-rds.jpg",
     "D319-AWS-Solutions-Arc/1_WhitePapers/wellarchitected-framework.pdf",
     "D319-AWS-Solutions-Arc/1_OtherPDFs/organizations-userguide.pdf",
