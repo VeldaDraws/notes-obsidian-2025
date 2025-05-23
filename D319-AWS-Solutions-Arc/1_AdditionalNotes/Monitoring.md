@@ -13,7 +13,8 @@ Monitoring can also help you understand and manage the cost of your AWS infrastr
 	- A solution architecture that automatically processes detailed billing reports to provide granular metrics that you can search, analyze, and visualize in a dashboard that you can customize.
 See also: [AWS Cost Management page](https://aws.amazon.com/aws-cost-management/)
 
-## [CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
+## CloudWatch
+Docs: [What is CloudWatch?](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
 ![[icon_CloudWatch.png|62]]
 - Collects and tracks metrics for your resources and applications.
 - Helps you correlate, visualize, and analyze metrics and logs.
@@ -46,3 +47,5 @@ Amazon CloudWatch is a monitoring and observability service that is built for De
 - Amazon [[EC2 Auto Scaling]]
 - AWS CloudTrail (module 8)
 - IAM (module 8)
+##### Further Reading for other AWS certifications/courses:
+- SysOps Administrator Associate / D341: [[02_CloudWatch]]

@@ -90,6 +90,7 @@ AWS Site-to-Site VPN, AWS Direct Connect, VPC Peering, Transit Gateway.
 		- [[Dynamo DB Auto Scaling]]
 	- [[Availability]]
 	- [[Monitoring]]
+		- [[Monitoring#CloudWatch]]
 ###### Module 10: Automating Your Architecture
 - Notes: [[10_Automating_Architecture]]
 ### Section 4
