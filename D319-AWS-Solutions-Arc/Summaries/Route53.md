@@ -1,0 +1,25 @@
+- DNS provider, register, and manage domains, create record sets.
+- **Simple Routing**
+	- Default routing policy
+	- Multiple addresses result in a random endpoint selection.
+- **Weighted Routing**
+	- Split up traffic based on different weights assigned
+- **Latency-Based Routing**
+	- Directs traffic based on region, for lowest possible latency for users.
+- **Failover Routing**
+	- Primary site in one location, secondary data recovery site in another.
+- **Geolocation Routing**
+	- Route traffic based on the geographic location of a requests origin
+- **Geo-Proximity Routing**
+	- Route traffic based on geographic location using Bias values.
+	- Needs Route53 Traffic Flow
+- **Multi-value Answer Routing**
+	- Return multiple values in response to DNS queries
+- **Traffic Flow**
+	- Visual editor, for chaining routing policies, can version policy records for easy rollback.
+- **AWS Alias Record**
+	- Smart DNS record
+	- Detects changed IPs for AWS resources and adjusts automatically
+- **Route53 Resolver**
+	- Lets you regionally route DNS queries between your VPCs and your network Hybrid Environments
+- Health checks: can be created to monitor and automatically over endpoints. You can have health checks monitor other health checks.

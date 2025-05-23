@@ -1,0 +1,19 @@
+### Identity Access Management
+- Used to manage access to users and resources
+- Free
+- Root is the account initially created when an AWS account is set up.
+- New IAM accounts have no permissions by default until granted.
+- New users get assigned an Access Key ID and Secret when given programmatic access.
+	- Access Keys
+		- Only used for CLI and SDK
+		- Only show once when created.
+		- If lost must be deleted/recreated.
+- Always set up MFA for root accounts.
+- IAM Identities as Users, Groups, and Roles
+	- Users: End users who log into the console or interact with AWS resources programmatically
+	- Groups: to group up Users to share permission levels.
+	- Roles: Associate permissions to a role and then assign to Users or Groups
+- Policies: JSON documents which grant permissions for a user, group, or role to access services. Policies are attached to IAM Identities.
+	- Managed Policies are provided by AWS and cannot be edited.
+	- Customer Managed Policies are created by the customer, which can be edited.
+	- Inline policies are directly attached to a user.

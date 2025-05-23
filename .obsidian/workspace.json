@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "805b47dfb628e7ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c67242c85cac71a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a197a2be2280b108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D321-AWS-Developer/00_Preface - DVA-C02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_Preface - DVA-C02"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce2992d440c0758a",
+    "type": "split",
+    "children": [
+      {
+        "id": "df8f165384d5e8e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd634979e8bbeb38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "644b3aa6f0735b0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1f568bbda4a4b25e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "de95177a2fc81372",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3f30b3c3c598cfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77422c586471eeac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "D319-AWS-Solutions-Arc/0_Preface.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 0_Preface"
+            }
+          },
+          {
+            "id": "78306cb7f78b5384",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "D319-AWS-Solutions-Arc/0_Table-Contents_D319.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 0_Table-Contents_D319"
+            }
+          },
+          {
+            "id": "8ac14668680d0665",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2119cc14c62a9657",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "D319-AWS-Solutions-Arc/0_Preface.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 0_Preface"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a197a2be2280b108",
+  "lastOpenFiles": [
+    "README.md",
+    "D321-AWS-Developer/00_Table-Of-Contents.md",
+    "Index.md",
+    "D319-AWS-Solutions-Arc/0_Table-Contents_D319.md",
+    "D319-AWS-Solutions-Arc/05_DB-Layer.md",
+    "D319-AWS-Solutions-Arc/5_Database-Notes/Amazon RDS.md",
+    "D319-AWS-Solutions-Arc/Summaries/Databases.md",
+    "D319-AWS-Solutions-Arc/5_Database-Notes/Amazon Aurora.md",
+    "D319-AWS-Solutions-Arc/2_Images/0_ExcaliDiagrams/amz-aurora-overview.png",
+    "D319-AWS-Solutions-Arc/2_Images/0_ExcaliDiagrams/Amz-RDS-overview.png",
+    "D319-AWS-Solutions-Arc/Summaries/AWS WAF Manager.md",
+    "D319-AWS-Solutions-Arc/2_Images/1_Summaries/waf-shield-manager.jpg",
+    "D319-AWS-Solutions-Arc/2_Images/1_Summaries",
+    "D319-AWS-Solutions-Arc/2_Images/0_ExcaliDiagrams/AWS-WAF-Manager.png.crswap",
+    "D319-AWS-Solutions-Arc/2_Images/0_ExcaliDiagrams/AWS-WAF-Manager.png",
+    "D319-AWS-Solutions-Arc/2_Images/0_ExcaliDiagrams",
+    "D319-AWS-Solutions-Arc/2_Images/New folder",
+    "D319-AWS-Solutions-Arc/13_Microservices-Serverless.md",
+    "D319-AWS-Solutions-Arc/Domain 1.md",
+    "0-ArchitectedFramework/Security Pillar.md",
+    "D319-AWS-Solutions-Arc/11_Caching-Content.md",
+    "D319-AWS-Solutions-Arc/02_Well-Architected.md",
+    "D319-AWS-Solutions-Arc/Icon-Index.md",
+    "1-ModernAWS_icons/diagram-export-5-22-2025-4_22_09-PM.png",
+    "D319-AWS-Solutions-Arc/Summaries/CloudFormation.md",
+    "D319-AWS-Solutions-Arc/Summaries/VPC.md",
+    "D319-AWS-Solutions-Arc/Summaries/S3.md",
+    "D319-AWS-Solutions-Arc/Summaries/Route53.md",
+    "D319-AWS-Solutions-Arc/Summaries/EC2.md",
+    "D319-AWS-Solutions-Arc/06_02_DNS-Refresher.md",
+    "D319-AWS-Solutions-Arc/0_Preface.md",
+    "D319-AWS-Solutions-Arc/Summaries/IAM.md",
+    "D319-AWS-Solutions-Arc/Summaries/Security Groups.md",
+    "D319-AWS-Solutions-Arc/Summaries/Snow-Family.md",
+    "Pasted image 20250505051749.png",
+    "Summaries",
+    "D319-AWS-Solutions-Arc/Summaries",
+    "D319-AWS-Solutions-Arc/5_Database-Notes/05_02-Database Layer - Overview.md",
+    "D319-AWS-Solutions-Arc/2_Images/DB-Layer-Diagrams/onp-vs-ec2-vs-rds.jpg",
+    "D319-AWS-Solutions-Arc/1_WhitePapers/wellarchitected-framework.pdf",
+    "D319-AWS-Solutions-Arc/1_OtherPDFs/organizations-userguide.pdf",
+    "D319-AWS-Solutions-Arc/2_Images/Compute-Layer/type_2.jpg",
+    "D319-AWS-Solutions-Arc/2_Images/Compute-Layer/type_1.jpg",
+    "D319-AWS-Solutions-Arc/2_Images/Compute-Layer/general-purpose.png",
+    "D319-AWS-Solutions-Arc/2_Images/Compute-Layer",
+    "D319-AWS-Solutions-Arc/1_AdditionalNotes/images"
+  ]
+}

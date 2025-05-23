@@ -1,0 +1,18 @@
+- Snowball and Snowball Edge
+	- Rugged container for storage.
+	- Built for peta-scale migration
+	- Snowball:
+		- 50 TB (42 TB usable)
+		- 80 TB (72 TB usable)
+	- Snowball Edge
+		- 100 TB (83 TB of usable space)
+		- 100 TB Clustered (45 TB per node)
+		- Can undertake local processing and edge-computing workloads
+		- Can use in a cluster in groups of 5 to 10 devices
+		- Storage Optimized: 24 vCPUs
+		- Compute Optimized: 54 vCPUs
+		- GPU Optimized: 54 vCPUs
+- Snowmobile
+	- 45' long shipping container, for storage.
+	- Exabyte-scale migration
+	- 100 PB
